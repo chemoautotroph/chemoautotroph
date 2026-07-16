@@ -15,11 +15,7 @@ reproducible scientific software.
 
 ### 🧬 [cFold](https://github.com/chemoautotroph/cfold)
 
-A modular multi-tool evolutionary algorithm for RNA inverse folding.
-
-cFold designs RNA sequences under structural and IUPAC constraints, using
-agreement across independent folding predictors to reduce predictor-specific
-artifacts.
+A multi-tool evolutionary framework for designing RNA sequences under structural and IUPAC constraints, presented at IEEE CEC / WCCI 2026.
 
 Presented at **IEEE CEC / WCCI 2026**.
 
@@ -27,17 +23,8 @@ Presented at **IEEE CEC / WCCI 2026**.
 
 ## Current Research
 
-### DNA fluorescent aptamer design
-
-Computational design and screening of multivalent DNA fluorescent aptamer
-architectures using optimization, oxDNA simulations, and biophysical criteria.
-Eight selected candidates have advanced to experimental validation.
-
-### RNA inverse folding and ribozyme design
-
-Extending cFold to additional folding predictors and pseudoknotted targets,
-with designed ribozymes undergoing complementary functional and structural
-validation.
+- **DNA aptamer design:** Optimizing multivalent fluorescent aptamer architectures with oxDNA simulations; eight candidates selected for experimental validation.
+- **RNA and ribozyme design:** Extending cFold to additional predictors and pseudoknotted targets, with selected designs undergoing experimental validation.
 
 ## Selected Tools
 
