@@ -17,8 +17,6 @@ reproducible scientific software.
 
 A multi-tool evolutionary framework for designing RNA sequences under structural and IUPAC constraints, presented at IEEE CEC / WCCI 2026.
 
-Presented at **IEEE CEC / WCCI 2026**.
-
 <!-- [Paper](PAPER_URL) · [Slides](SLIDES_URL) -->
 
 ## Current Research
